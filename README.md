@@ -1,3 +1,5 @@
+# This git forks from https://github.com/michuanhaohao/reid-strong-baseline
+
 # Bags of Tricks and A Strong ReID Baseline
 Paper: "Bags of Tricks and A Strong Baseline for Deep Person Re-identification"[[pdf]](https://arxiv.org/abs/1903.07071)
 
